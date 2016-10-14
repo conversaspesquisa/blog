@@ -4,9 +4,9 @@
 # Site settings
 title: Conversas com quem pesquisa
 description: |
-  Esse site é parte de um projeto (PIBIC-EM IFB/CNPq)
-  que pretende mapear e divulgar as pesquisas   
-  desenvolvidas no [IFB](http://www.ifb.edu.br)
+  Site com mapeamento e divulgação
+  das pesquisas desenvolvidas   
+  no [IFB](http://www.ifb.edu.br)
 owner: Conversas com quem pesquisa # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: conversascomquempesquisa@gmail.com
